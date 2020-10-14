@@ -8,6 +8,7 @@ Tracker:
 quit
 
 Peer:
+
 a. Run Client: ./client <IP>:<PORT> tracker_info.txt
 \
 b. Create User Account: create_user <user_id> <passwd>
